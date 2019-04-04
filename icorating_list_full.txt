@@ -217,7 +217,6 @@
 {"Name": "Curaizon", "URL": "https://icorating.com/ico/curaizon-ctkn/", "Status": "Finished", "Hype score": "Low", "Risk score": "Medium", "Rating": "Review", "Raised": "NA", "Percent": "NA"}
 {"Name": "Arweave", "URL": "https://icorating.com/ico/arweave/", "Status": "Finished", "Hype score": "Medium", "Risk score": "Medium", "Rating": "Review", "Raised": "8,700,000", "Percent": 1.0}
 {"Name": "AI Crypto", "URL": "https://icorating.com/ico/ai-crypto-aic/", "Status": "Finished", "Hype score": "High", "Risk score": "High", "Rating": "Review", "Raised": "4,750,000", "Percent": 0.22}
-{"Name": "Global REIT (GRET/GREM)", "URL": "https://icorating.com/ico/global-reit-gret/", "Status": "Finished", "Hype score": "Medium", "Risk score": "Medium", "Rating": "Review", "Raised": "NA", "Percent": "NA"}
 {"Name": "Verasity", "URL": "https://icorating.com/ico/verasity-vera/", "Status": "Finished", "Hype score": "High", "Risk score": "Medium", "Rating": "Review", "Raised": "NA", "Percent": "NA"}
 {"Name": "Ubex", "URL": "https://icorating.com/ico/ubex-ubex/", "Status": "Finished", "Hype score": "Very High", "Risk score": "Medium", "Rating": "Review", "Raised": "7,129,000", "Percent": 1.06}
 {"Name": "Kora Network", "URL": "https://icorating.com/ico/kora-network/", "Status": "Finished", "Hype score": "Medium", "Risk score": "Low", "Rating": "Review", "Raised": "12,000,000", "Percent": 1.0}
